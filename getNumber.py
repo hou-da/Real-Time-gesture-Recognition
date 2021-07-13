@@ -58,8 +58,6 @@ def getNumber(ar):
         return (5)
     elif (s == "01001"):
         return (6)
-    elif (s == "00111"):
-        return (7)
     elif (s == "01101"):
         return (7)
 
